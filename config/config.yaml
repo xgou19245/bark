@@ -330,7 +330,7 @@ storage:
 # ai_analysis 和 ai_translation 共用此模型配置
 # 基于 LiteLLM 统一接口，支持 100+ AI 提供商
 # ===============================================================
-ai: - deepseek/deepseek-chat (DeepSeek)
+ai: 
   # LiteLLM 模型格式: provider/model_name
   # 示例:
   #   - deepseek/deepseek-chat (DeepSeek)
