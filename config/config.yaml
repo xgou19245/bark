@@ -515,7 +515,7 @@ advanced:
     default: 4000
     dingtalk: 20000
     feishu: 30000
-    bark: 4000
+    bark: 30000
     slack: 4000
   batch_send_interval: 3              # 批次发送间隔（秒）
   feishu_message_separator: "━━━━━━━━━━━━━━━━━━━"
